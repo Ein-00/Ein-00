@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ein-00
+- 👀 I’m interested in learning about python ,java and javascript
+- 🌱 I’m currently learning python
